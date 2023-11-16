@@ -19,9 +19,10 @@ y =  ax + b \\
 \mu = \alpha_2 + \beta^2
 $$
 
-For more reference, searching on [baidu](baidu.com).
 
 ## TODO List
-- [x] properties of con
+- [x] properties of cone
 - [ ] reading syllabus  
 - [ ] To be Published !
+
+For more reference, searching on [baidu](baidu.com).
