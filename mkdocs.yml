@@ -124,7 +124,7 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/Lucas-Chensq/mkdocs # 右上角点击跳转的链接
+repo_url: https://github.com/zhaoolee/pi # 右上角点击跳转的链接
 repo_name: Lucas-Chensq.github.io # 右上角的名字
 ## [bottom-left corner]
 copyright: Lucas-Chensq CC-BY-4.0 # 左下角的版权声明
