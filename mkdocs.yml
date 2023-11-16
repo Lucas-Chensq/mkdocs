@@ -132,8 +132,8 @@ copyright: csq CC-BY-4.0 # 左下角的版权声明
 extra:
   social: # icons
     - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-      name: Bilibili | 杨希杰619 # 鼠标悬浮提示
+      link: https://space.bilibili.com/392601818
+      name: Bilibili | Lucas # 鼠标悬浮提示
     - icon: fontawesome/brands/github
       link: https://github.com/Lucas-Chensq
       name: GitHub | Lucas-Chen

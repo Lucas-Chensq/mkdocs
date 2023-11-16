@@ -1,3 +1,3 @@
 # Convex Optimization
 
-To be Published.
+To be Published !
