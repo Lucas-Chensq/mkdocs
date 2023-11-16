@@ -10,8 +10,11 @@ nav:
     - LECTURE/index.md 
     - Convexopt:
       - Lec-1 Convex sets and functions: LECTURE/convexopt/convex-lec1.md
+      - Lec-2 Convex basics: LECTURE/convexopt/convex-lec2.md
+
     - Linear algebra:
       - introduction: LECTURE/linear_algebra/linear-lec1.md
+
   - 博客:
     - BLOG/index.md
     - BLOG/others.md
@@ -31,8 +34,8 @@ nav:
     # - GPU:
     #   - RESEARCH/Gpu/gpu.md
     #   - RESEARCH/Gpu/cuda.md
-  # - 二次元:
-  #   - 2/index.md
+  - 二次元:
+    - 2/index.md
   #   - 番:
   #     - 2/Anime/anime-rating.md
   #     - 2/Anime/anime-rating-extraordinary.md
@@ -52,13 +55,13 @@ nav:
   #     - 2/Games/Genshin/graphic-quality.md
   #     - 2/Games/Genshin/controller.md
   #     - 2/Games/Genshin/food.md
-  #   - Apex:
-  #     - 2/Games/Apex/controller-aim.md
-  #     - 2/Games/Apex/controller-settings.md
-  #     - 2/Games/Apex/zhidong-settings.md
-  #     - 2/Games/Apex/key-mouse-settings.md
-  #     - 2/Games/Apex/characters.md
-  #     - 2/Games/Apex/17.md
+    - Apex:
+      - 2/Games/Apex/controller-aim.md
+      - 2/Games/Apex/controller-settings.md
+      - 2/Games/Apex/zhidong-settings.md
+      - 2/Games/Apex/key-mouse-settings.md
+      - 2/Games/Apex/characters.md
+      - 2/Games/Apex/17.md
   # - 转载:
   #   - REPRODUCE/index.md
   #   - 演讲:
