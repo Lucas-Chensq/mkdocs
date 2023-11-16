@@ -1,5 +1,8 @@
 # 讲稿
 
+''
+print("hello");
+''
 
 Here is the Lecture note written by Lucas Chen. 
 
